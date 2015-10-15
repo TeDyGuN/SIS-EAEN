@@ -39,7 +39,7 @@
                     <li><a href="{{url('sistema/nuevotrabajo')}}"><i class="fa fa-circle-o"></i>Nuevo Trabajo</a></li>
                     <li><a href="{{url('sistema/ListaTrabajos')}}"><i class="fa fa-circle-o"></i>Lista Trabajo</a></li>
                     <li><a href=" {{url('sistema/MisTrabajos')}}"><i class="fa fa-circle-o"></i>Mis Trabajos</a></li>
-                    <li><a href=""><i class="fa fa-circle-o"></i>Revisiones</a></li>
+                    <li><a href=" {{url('sistema/ListaRevision') }}"><i class="fa fa-circle-o"></i>Revisiones</a></li>
                 </ul>
             </li>
             <li>
@@ -81,7 +81,7 @@
                     <li><a href="{{url('sistema/nuevotrabajo')}}"><i class="fa fa-circle-o"></i>Nuevo Trabajo</a></li>
                     <li><a href="{{url('sistema/ListaTrabajos')}}"><i class="fa fa-circle-o"></i>Lista Trabajo</a></li>
                     <li><a href=" {{url('sistema/MisTrabajos')}}"><i class="fa fa-circle-o"></i>Mis Trabajos</a></li>
-                    <li><a href=""><i class="fa fa-circle-o"></i>Revisiones</a></li>
+                    <li><a href=" {{url('sistema/ListaRevision') }}"><i class="fa fa-circle-o"></i>Revisiones</a></li>
                 </ul>
             </li>
             <li>

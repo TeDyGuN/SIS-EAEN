@@ -57,6 +57,8 @@ Route::group(['prefix'=> 'sistema', 'namespace' => 'Sistema'], function()
     Route::post('guardar', 'TrabajoController@save');
     Route::get('ListaTrabajos', 'TrabajoController@listadoTrabajos');
     Route::get('MisTrabajos', 'TrabajoController@misTrabajos');
+    Route::get('ListaRevision', 'SeguimientoController@ListaRevision');
+    Route::get('trabajo/{id}', 'SeguimientoController@seguimiento');
     Route::get('storage/{archivo}', function ($archivo) {
         $url = storage_path('app/').$archivo;
         //verificamos si el archivo existe y lo retornamos
