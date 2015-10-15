@@ -1,0 +1,32 @@
+body{
+    font-size: 13px;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    background: url('../images/page.jpg') repeat;
+    background-attachment: fixed, fixed, fixed !important;
+}
+
+.colorazul{
+    color: #144571;
+    font-weight: bold;
+}
+.coloramarillo{
+    color: #F6BB09;
+    font-weight: bold;
+}
+.panel-default > .panel-heading
+{
+    color:  #F6BB09;
+    font-size: 1em;
+    font-weight: bold;
+    background: #144571;
+}
+.box-header
+{
+    color:  #F6BB09;
+    font-weight: bold;
+    background: #144571;
+    text-align: center;
+}
+#headeremi{
+    background: #e5e5e5;
+}
