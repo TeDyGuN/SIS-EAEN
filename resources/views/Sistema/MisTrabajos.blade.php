@@ -27,7 +27,7 @@
                             @foreach($trabajos as $t)
                                 <tr>
                                     <td>
-                                        <a href="{{url('sistema/trabajo/'.$t->id)}}">{{$t->titulo}}</a>
+                                        <a href="{{url('sistema/revision/cursante/'.$t->id)}}">{{$t->titulo}}</a>
 
                                     </td>
                                     <td>{{$t->tutorfirst_name.' '.$t->tutorlast_name}}</td>
