@@ -1,5 +1,5 @@
 @extends('Plantilla/plantilla')
-@section('titulo', 'Reportes Usuarios')
+@section('titulo', 'Listado de Trabajos a Revisar')
 @section('headerpage')
     <section class="content-header"  xmlns="http://www.w3.org/1999/html">
         <h1 class="colorazul">
@@ -13,61 +13,61 @@
         <div class="row">
             <div class="table-responsive">
                 <div class="panel panel-default">
-                    <div class="panel-heading">Generacion de Reportes Usuarios</div>
+                    <div class="panel-heading">Generacion de Reportes</div>
                     <div class="panel-body">
                         <!-- Tab panes -->
                         <div ng-controller="SearchCrtl">
-                            <form method="post" class="form-horizontal" enctype="multipart/form-data" role="form"  action="{{ url('admin/reportes/guardarusuario')  }}"  >
+                            <div>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" id="inlineCheckbox1" name="profesion" value="1" checked> Profesion
+                                </label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" id="inlineCheckbox2" name="especialidad" value="1" checked> Especialidad
+                                </label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" id="inlineCheckbox3" name="fuerza" value="1" checked> Fuerza
+                                </label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" id="inlineCheckbox4" name="grado" value="1" checked> Grado
+                                </label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" id="inlineCheckbox5" name="ci" value="1" checked> CI
+                                </label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" id="inlineCheckbox6" name="email" value="1" checked> Email
+                                </label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" id="inlineCheckbox7" name="date" value="1" checked> Fecha de Nacimiento
+                                </label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" id="inlineCheckbox8" name="type" value="1" checked> Tipo de Usuario
+                                </label>
+                            </div>
+                            <div class="form-group" style="margin-top: 20px">
+                                <div class="col-md-2">
+                                    <select class="form-control" ng-model="searchSelect">
+                                        <option selected="selected" value="1">Apellidos</option>
+                                        <option value="2">Profesion</option>
+                                        <option value="3">Especialidad</option>
+                                        <option value="4">Fuerza</option>
+                                        <option value="5">Grado</option>
+                                        <option value="6">CI</option>
+                                        <option value="7">Email</option>
+                                        <option value="8">Fecha de Nacimiento</option>
+                                        <option value="9">Tipo de Usuario</option>
+                                    </select>
+                                </div>
+                                <div class="input-group col-md-10">
+                                    <div class="input-group-addon">
+                                        <span class="glyphicon glyphicon-zoom-in"></span>
+                                    </div>
+                                    <div class="">
+                                        <input type="text" class="form-control" id="buscar_id" placeholder="Buscar" ng-model="searchInput" ng-change="search()">
+                                    </div>
+                                </div>
+                            </div>
+                            <form method="post" class="form-horizontal" enctype="multipart/form-data" role="form"  action="{{ url('sistema/guardar')  }}"  >
                                 <input type="hidden" name="_token" value="{{ csrf_token() }}">
-                                <div>
-                                    <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox1" name="profesion" value="1" checked> Profesion
-                                    </label>
-                                    <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox2" name="especialidad" value="1" checked> Especialidad
-                                    </label>
-                                    <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox3" name="fuerza" value="1" checked> Fuerza
-                                    </label>
-                                    <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox4" name="grado" value="1" checked> Grado
-                                    </label>
-                                    <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox5" name="ci" value="1" checked> CI
-                                    </label>
-                                    <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox6" name="email" value="1" checked> Email
-                                    </label>
-                                    <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox7" name="date" value="1" checked> Fecha de Nacimiento
-                                    </label>
-                                    <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox8" name="type" value="1" checked> Tipo de Usuario
-                                    </label>
-                                </div>
-                                <div class="form-group" style="margin-top: 20px">
-                                    <div class="col-md-2">
-                                        <select class="form-control" ng-model="searchSelect" name="tipos">
-                                            <option selected="selected" value="1">Apellidos</option>
-                                            <option value="2">Profesion</option>
-                                            <option value="3">Especialidad</option>
-                                            <option value="4">Fuerza</option>
-                                            <option value="5">Grado</option>
-                                            <option value="6">CI</option>
-                                            <option value="7">Email</option>
-                                            <option value="8">Fecha de Nacimiento</option>
-                                            <option value="9">Tipo de Usuario</option>
-                                        </select>
-                                    </div>
-                                    <div class="input-group col-md-10">
-                                        <div class="input-group-addon">
-                                            <span class="glyphicon glyphicon-zoom-in"></span>
-                                        </div>
-                                        <div class="">
-                                            <input type="text" class="form-control" id="buscar_id" name="campo" placeholder="Buscar" ng-model="searchInput" ng-change="search()">
-                                        </div>
-                                    </div>
-                                </div>
                                 <div class="">
                                     <button type="submit" class="btn btn-primary center-block">
                                         Generar Reporte

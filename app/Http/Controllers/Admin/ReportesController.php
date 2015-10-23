@@ -21,12 +21,14 @@ use Barryvdh\DomPDF\PDF;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\View;
+
 use Illuminate\Support\Facades\Response;
 use Illuminate\Support\Facades\Input;
 
 
 class ReportesController extends Controller
 {
+    private $campo, $res;
     public function usuarios($op)
     {
         if($op == "1")
@@ -49,14 +51,8 @@ class ReportesController extends Controller
     }
     public function saveUsuario(Request $request)
     {
-        $st = '';
         dd($request);
-        foreach($request as $r){
-            $st->
-        }
-        $iristeamo['1'] = 'email';
-        $iristeamo['3'] = 'type';
-        return User::select('id', 'first_name', $iristeamo)->get();
+        //return $this->usuarios(44);
     }
     public function trabajos($op)
     {
@@ -166,6 +162,8 @@ class ReportesController extends Controller
         {
             $data = User::where('type', 'LIKE', $name . '%')->orderBy('father_last_name')->get();
         }
+        $this->campo = $var;
+        $this->res = $name;
         return Response::json($data);
     }
 }

@@ -34,7 +34,7 @@ Route::group(['before' => 'is_admin', 'prefix'=> 'admin', 'namespace' => 'Admin'
     Route::post('save_reportes', 'ReportesController@save');
     Route::get('usuarioreportes', 'ReportesController@usuarios');
     Route::get('find', 'ReportesController@buscar');
-    Route::post('reportes/guardarusuario', 'ReportesController@saveUsuario');
+    Route::post('reportes/guardarusuario', 'ReportesController@saveUsuarios');
     Route::resource('excel','ExcelController');
 =======
 >>>>>>> Stashed changes
