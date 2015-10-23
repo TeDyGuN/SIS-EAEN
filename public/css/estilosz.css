@@ -4,6 +4,7 @@ body{
     background: url('../images/page.jpg') repeat;
     background-attachment: fixed, fixed, fixed !important;
 }
+
 .colorazul{
     color: #144571;
     font-weight: bold;

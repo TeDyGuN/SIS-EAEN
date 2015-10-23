@@ -29,12 +29,15 @@ Route::filter('is_admin', function()
 Route::group(['before' => 'is_admin', 'prefix'=> 'admin', 'namespace' => 'Admin'], function()
 {
     Route::get('home', 'GeneralController@index');
+<<<<<<< Updated upstream
     Route::get('reportes', 'ReportesController@index');
     Route::post('save_reportes', 'ReportesController@save');
     Route::get('usuarioreportes', 'ReportesController@usuarios');
     Route::get('find', 'ReportesController@buscar');
     Route::post('reportes/guardarusuario', 'ReportesController@saveUsuario');
     Route::resource('excel','ExcelController');
+=======
+>>>>>>> Stashed changes
 });
 //Filtros Cursante
 Route::filter('is_cursante', function()
@@ -54,6 +57,7 @@ Route::group(['before' => 'is_tutor', 'prefix'=> 'tutor', 'namespace' => 'Tutor'
 {
     Route::get('home', 'TutorController@index');
 });
+
 Route::group(['prefix'=> 'sistema', 'namespace' => 'Sistema'], function()
 {
     Route::get('succes', 'LoginController@loginExitoso');

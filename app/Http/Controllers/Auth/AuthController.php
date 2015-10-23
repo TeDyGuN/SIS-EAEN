@@ -28,7 +28,6 @@ class AuthController extends Controller
      *
      * @return void
      */
-
     public function __construct()
     {
         $this->middleware('guest', ['except' => 'getLogout']);
@@ -48,6 +47,7 @@ class AuthController extends Controller
             'password' => 'required|confirmed|min:6',
         ]);
     }
+
     /**
      * Create a new user instance after a valid registration.
      *

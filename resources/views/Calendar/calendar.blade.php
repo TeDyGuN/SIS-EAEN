@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ES">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>Calendario</title>

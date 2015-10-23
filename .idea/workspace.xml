@@ -29,23 +29,35 @@
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< Updated upstream
             <state vertical-scroll-proportion="-7.8461537">
               <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
 =======
             <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1575">
               <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
 >>>>>>> origin/master
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1575">
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+=======
+            <state vertical-scroll-proportion="-9.153846">
+              <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+>>>>>>> parent of 208629a... Reportes
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/Plantilla/sidebar.blade.php">
+      <file leaf-file-name="CursanteRevision.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Sistema/CursanteRevision.blade.php">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< Updated upstream
             <state vertical-scroll-proportion="-15.307693">
 =======
+=======
+>>>>>>> Stashed changes
             <state vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="1170">
 >>>>>>> origin/master
               <caret line="63" column="64" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
@@ -69,13 +81,28 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="1545">
               <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+=======
+            <state vertical-scroll-proportion="-17.615385">
+              <caret line="40" column="22" selection-start-line="17" selection-start-column="16" selection-end-line="40" selection-end-column="22" />
+>>>>>>> parent of 208629a... Reportes
               <folding>
-                <element signature="e#46#59#0#PHP" expanded="true" />
+                <element signature="e#531#557#0#HTML" expanded="true" />
+                <element signature="e#762#786#0#HTML" expanded="true" />
+                <element signature="e#881#905#0#HTML" expanded="true" />
+                <element signature="e#1080#1104#0#HTML" expanded="true" />
+                <element signature="e#1182#1206#0#HTML" expanded="true" />
+                <element signature="e#1406#1430#0#HTML" expanded="true" />
+                <element signature="e#1527#1551#0#HTML" expanded="true" />
+                <element signature="e#1723#1747#0#HTML" expanded="true" />
+                <element signature="e#1831#1855#0#HTML" expanded="true" />
+                <element signature="e#2030#2054#0#HTML" expanded="true" />
+                <element signature="e#2416#2442#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="ReportesController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ReportesController.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,14 +112,25 @@
 =======
             <state vertical-scroll-proportion="2.0" vertical-offset="1653" max-vertical-offset="2535">
               <caret line="112" column="49" selection-start-line="112" selection-start-column="49" selection-end-line="112" selection-end-column="49" />
+<<<<<<< Updated upstream
 >>>>>>> origin/master
+=======
+=======
+      <file leaf-file-name="SeguimientoController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/SeguimientoController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.26923">
+              <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+>>>>>>> parent of 208629a... Reportes
+>>>>>>> Stashed changes
               <folding>
-                <element signature="e#129#151#0#PHP" expanded="true" />
+                <element signature="e#133#169#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="UserTableSeeder.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/database/seeds/UserTableSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,6 +170,24 @@
               <caret line="83" column="31" selection-start-line="28" selection-start-column="24" selection-end-line="83" selection-end-column="31" />
 >>>>>>> origin/master
               <folding />
+=======
+      <file leaf-file-name="TrabajoRevision.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/Sistema/TrabajoRevision.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41785714">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <folding>
+                <element signature="e#762#786#0#HTML" expanded="true" />
+                <element signature="e#881#905#0#HTML" expanded="true" />
+                <element signature="e#1080#1104#0#HTML" expanded="true" />
+                <element signature="e#1185#1209#0#HTML" expanded="true" />
+                <element signature="e#1409#1433#0#HTML" expanded="true" />
+                <element signature="e#1533#1557#0#HTML" expanded="true" />
+                <element signature="e#1729#1753#0#HTML" expanded="true" />
+                <element signature="e#1837#1861#0#HTML" expanded="true" />
+                <element signature="e#2036#2060#0#HTML" expanded="true" />
+              </folding>
+>>>>>>> parent of 208629a... Reportes
             </state>
           </provider>
         </entry>
@@ -141,29 +197,59 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/database/seeds/UserTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/factories/ModelFactory.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/GeneralController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Tutor/TutorController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Cursante/EstudianteController.php" />
+        <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php" />
+        <option value="$PROJECT_DIR$/resources/views/Plantilla/footer.blade.php" />
+        <option value="$PROJECT_DIR$/app/Events/Event.php" />
+        <option value="$PROJECT_DIR$/resources/views/Plantilla/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Tutor/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Admin/index.blade.php" />
+>>>>>>> parent of 208629a... Reportes
         <option value="$PROJECT_DIR$/database/migrations/2015_10_07_040403_create_eventos_table.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Calendar/FullCalendarController.php" />
         <option value="$PROJECT_DIR$/resources/views/Cursante/index.blade.php" />
         <option value="$PROJECT_DIR$/database/migrations/2015_10_14_195138_create_LineaInvestigacion_table.php" />
         <option value="$PROJECT_DIR$/app/LineaInvestigacion.php" />
         <option value="$PROJECT_DIR$/app/Event.php" />
+        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/LoginController.php" />
         <option value="$PROJECT_DIR$/resources/views/Sistema/Nuevo_Trabajo.blade.php" />
         <option value="$PROJECT_DIR$/database/seeds/LineaInvestigacionTableSeeder.php" />
         <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
         <option value="$PROJECT_DIR$/database/seeds/AdminTableSeeder.php" />
+        <option value="$PROJECT_DIR$/resources/views/Calendar/calendar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Plantilla/plantilla.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/estilos.css" />
         <option value="$PROJECT_DIR$/database/migrations/2015_10_14_195315_create_Trabajo_table.php" />
+        <option value="$PROJECT_DIR$/public/css/estilosz.css" />
+        <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/resources/views/Sistema/ListadoTrabajos.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Sistema/NuevoTrabajo.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Calendar/CalendarInjectionController.php" />
         <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/resources/views/Plantilla/sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/TrabajoController.php" />
         <option value="$PROJECT_DIR$/database/migrations/2015_10_15_192125_create_RecoTabla_table.php" />
         <option value="$PROJECT_DIR$/resources/views/Sistema/ListaRevision.blade.php" />
         <option value="$PROJECT_DIR$/app/Trabajo.php" />
         <option value="$PROJECT_DIR$/app/Revision.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/Sistema/MisTrabajos.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Sistema/SeguimientoController.php" />
         <option value="$PROJECT_DIR$/resources/views/Sistema/CursanteRevision.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Sistema/TrabajoRevision.blade.php" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/resources/views/Calendar/calendar.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/AdminMiddleware.php" />
@@ -192,6 +278,8 @@
         <option value="$PROJECT_DIR$/resources/views/Admin/Reportes/index.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/ReportesController.php" />
         <option value="$PROJECT_DIR$/database/seeds/UserTableSeeder.php" />
+=======
+>>>>>>> parent of 208629a... Reportes
       </list>
     </option>
   </component>
@@ -209,9 +297,16 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="736" />
+=======
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+>>>>>>> parent of 208629a... Reportes
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -236,6 +331,11 @@
       <sortByType />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+      <pane id="Scope" />
+>>>>>>> parent of 208629a... Reportes
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -251,6 +351,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
 <<<<<<< HEAD
+<<<<<<< Updated upstream
               <option name="myItemId" value="eaen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -323,6 +424,10 @@
 =======
               <option name="myItemId" value="SIS-EAEN" />
 >>>>>>> origin/master
+=======
+              <option name="myItemId" value="SIS-EAEN" />
+=======
+              <option name="myItemId" value="eaen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -332,7 +437,203 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SIS-EAEN" />
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tutor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sistema" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plantilla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cursante" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Calendar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -346,7 +647,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SIS-EAEN" />
+              <option name="myItemId" value="eaen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -355,6 +656,128 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="seeds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factories" />
+>>>>>>> parent of 208629a... Reportes
+>>>>>>> Stashed changes
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SIS-EAEN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SIS-EAEN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="seeds" />
+=======
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eaen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sistema" />
+>>>>>>> parent of 208629a... Reportes
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -373,10 +796,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\eaen\app\Http\Controllers\Admin" />
       <recent name="C:\xampp\htdocs\eaen\app\Http\Controllers\Sistema" />
       <recent name="C:\xampp\htdocs\eaen\app\Http\Controllers\Cursante" />
       <recent name="C:\xampp\htdocs\eaen\app\Http\Controllers\Tutor" />
+      <recent name="C:\xampp\htdocs\eaen\app\Http\Controllers\Admin" />
     </key>
   </component>
   <component name="RunManager">
@@ -422,23 +845,38 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="23" width="1280" height="736" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29946524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> parent of 208629a... Reportes
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26231387" sideWeight="0.48074865" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29095075" sideWeight="0.5085561" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
 <<<<<<< HEAD
+<<<<<<< Updated upstream
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18442154" sideWeight="0.51925135" order="7" side_tool="false" content_ui="tabs" />
 =======
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21289356" sideWeight="0.51925135" order="7" side_tool="false" content_ui="tabs" />
 >>>>>>> origin/master
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21289356" sideWeight="0.51925135" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29095075" sideWeight="0.49144384" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> parent of 208629a... Reportes
+>>>>>>> Stashed changes
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -456,15 +894,15 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21305841" sideWeight="0.5171123" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17888889" sideWeight="0.5064655" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28865978" sideWeight="0.48288772" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29095075" sideWeight="0.49353448" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26077586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29572192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -492,19 +930,41 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1575">
           <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+=======
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4978038">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.3846154">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Events/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+>>>>>>> parent of 208629a... Reportes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/resources/views/Plantilla/sidebar.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="1170">
@@ -517,10 +977,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2685" max-vertical-offset="3165">
           <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/Plantilla/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Plantilla/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Tutor/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24335378">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+>>>>>>> parent of 208629a... Reportes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ExcelController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="1545">
@@ -545,20 +1033,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1545" max-vertical-offset="3525">
           <caret line="103" column="16" selection-start-line="103" selection-start-column="16" selection-end-line="103" selection-end-column="16" />
+=======
+    <entry file="file://$PROJECT_DIR$/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3148148">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_10_07_040403_create_eventos_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+>>>>>>> parent of 208629a... Reportes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/resources/views/Sistema/NuevoTrabajo.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="1950">
           <caret line="83" column="31" selection-start-line="28" selection-start-column="24" selection-end-line="83" selection-end-column="31" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+>>>>>>> parent of 208629a... Reportes
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Middleware/AdminMiddleware.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.33962265" vertical-offset="0" max-vertical-offset="0">
           <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
@@ -568,186 +1085,336 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5384617" vertical-offset="0" max-vertical-offset="0">
           <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+=======
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php">
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="0">
           <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8820755" vertical-offset="0" max-vertical-offset="0">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/LoginController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="0">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/estilos.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="99" column="1" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2015_10_14_195138_create_LineaInvestigacion_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35191083" vertical-offset="0" max-vertical-offset="0">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/estilosz.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+=======
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="0">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-0.8820755" vertical-offset="0" max-vertical-offset="0">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+=======
+        <state vertical-scroll-proportion="-9.230769">
+          <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/LoginController.php">
+<<<<<<< HEAD
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="0">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Tutor/TutorController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16707617">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/GeneralController.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/master.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="0">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Datatables/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7309582" vertical-offset="0" max-vertical-offset="0">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Plantilla/header.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="53" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Reportes/usuarios.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/MisTrabajos.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8375796" vertical-offset="0" max-vertical-offset="0">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/ListaRevision.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.93428063" vertical-offset="0" max-vertical-offset="0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/debugbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472469" vertical-offset="0" max-vertical-offset="0">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/CursanteRevision.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3285968" vertical-offset="0" max-vertical-offset="0">
-          <caret line="40" column="22" selection-start-line="17" selection-start-column="16" selection-end-line="40" selection-end-column="22" />
+          <caret line="99" column="1" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
+=======
+        <state vertical-scroll-proportion="0.18796068">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Cursante/CursanteController.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.35191083" vertical-offset="0" max-vertical-offset="0">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="42" />
+=======
+        <state vertical-scroll-proportion="0.12530713">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/UserTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/DatatablesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5201669" vertical-offset="0" max-vertical-offset="0">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Plantilla/plantilla.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2127955" vertical-offset="0" max-vertical-offset="0">
-          <caret line="112" column="7" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/ListadoTrabajos.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.017094" vertical-offset="0" max-vertical-offset="0">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/TrabajoController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="40.53846" vertical-offset="0" max-vertical-offset="0">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/SeguimientoController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9094017" vertical-offset="0" max-vertical-offset="0">
-          <caret line="78" column="71" selection-start-line="78" selection-start-column="69" selection-end-line="78" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/TrabajoRevision.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-53.23077" vertical-offset="0" max-vertical-offset="0">
-          <caret line="108" column="24" selection-start-line="108" selection-start-column="24" selection-end-line="112" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/ModelFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="0">
-          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/AdminTableSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.615385" vertical-offset="0" max-vertical-offset="0">
-          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+=======
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+>>>>>>> parent of 208629a... Reportes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/seeds/LineaInvestigacionTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#89#0#PHP" expanded="false" />
+          </folding>
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/AdminTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="43" />
+=======
+        <state vertical-scroll-proportion="0.76334107">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_10_14_195138_create_LineaInvestigacion_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="0">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="92" />
+=======
+        <state vertical-scroll-proportion="-6.3461537">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="42" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/LineaInvestigacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.7309582" vertical-offset="0" max-vertical-offset="0">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+=======
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Cursante/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="53" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="9" />
+=======
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.8375796" vertical-offset="0" max-vertical-offset="0">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.041769043">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Calendar/calendar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.93428063" vertical-offset="0" max-vertical-offset="0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="78" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.18472469" vertical-offset="0" max-vertical-offset="0">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Calendar/FullCalendarController.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-0.3285968" vertical-offset="0" max-vertical-offset="0">
+          <caret line="40" column="22" selection-start-line="17" selection-start-column="16" selection-end-line="40" selection-end-column="22" />
+=======
+        <state vertical-scroll-proportion="0.5375">
+          <caret line="104" column="38" selection-start-line="95" selection-start-column="16" selection-end-line="104" selection-end-column="38" />
+          <folding>
+            <element signature="e#48#84#0#PHP" expanded="false" />
+          </folding>
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Plantilla/plantilla.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/estilosz.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.5201669" vertical-offset="0" max-vertical-offset="0">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_10_14_195315_create_Trabajo_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="1.2127955" vertical-offset="0" max-vertical-offset="0">
+          <caret line="112" column="7" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="7" />
+=======
+        <state vertical-scroll-proportion="-17.0">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="1.017094" vertical-offset="0" max-vertical-offset="0">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+=======
+        <state vertical-scroll-proportion="-1.2160715">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="40.53846" vertical-offset="0" max-vertical-offset="0">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.9094017" vertical-offset="0" max-vertical-offset="0">
+          <caret line="78" column="71" selection-start-line="78" selection-start-column="69" selection-end-line="78" selection-end-column="71" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/filesystems.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-53.23077" vertical-offset="0" max-vertical-offset="0">
+          <caret line="108" column="24" selection-start-line="108" selection-start-column="24" selection-end-line="112" selection-end-column="30" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/ListadoTrabajos.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="0">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+=======
+        <state vertical-scroll-proportion="-22.884615">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="36" selection-end-column="112" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Calendar/CalendarInjectionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-16.615385" vertical-offset="0" max-vertical-offset="0">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+=======
+        <state vertical-scroll-proportion="0.083538085">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.61025643" vertical-offset="0" max-vertical-offset="0">
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
@@ -757,6 +1424,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="0">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+=======
+        <state vertical-scroll-proportion="0.9089286">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -764,46 +1435,104 @@
 =======
     <entry file="file://$PROJECT_DIR$/resources/views/Sistema/NuevoTrabajo.blade.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60714287">
+          <caret line="83" column="31" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Trabajo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45535713">
+          <caret line="15" column="119" selection-start-line="15" selection-start-column="119" selection-end-line="15" selection-end-column="119" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Revision.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="83" column="31" selection-start-line="28" selection-start-column="24" selection-end-line="83" selection-end-column="31" />
+=======
+        <state vertical-scroll-proportion="-5.1923075">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+>>>>>>> parent of 208629a... Reportes
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Reportes/index.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/Plantilla/sidebar.blade.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="103" column="16" selection-start-line="103" selection-start-column="16" selection-end-line="103" selection-end-column="16" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="117" selection-start-line="40" selection-start-column="117" selection-end-line="40" selection-end-column="117" />
+>>>>>>> parent of 208629a... Reportes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
 >>>>>>> origin/master
     <entry file="file://$PROJECT_DIR$/composer.json">
+=======
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/TrabajoController.php">
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="0">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+=======
+        <state vertical-scroll-proportion="1.2285714">
+          <caret line="102" column="58" selection-start-line="102" selection-start-column="58" selection-end-line="102" selection-end-column="58" />
+          <folding />
+>>>>>>> parent of 208629a... Reportes
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_10_15_192125_create_RecoTabla_table.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
+=======
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+>>>>>>> parent of 208629a... Reportes
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ExcelController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/CursanteRevision.blade.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="1545">
           <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+=======
+        <state vertical-scroll-proportion="-17.615385">
+          <caret line="40" column="22" selection-start-line="17" selection-start-column="16" selection-end-line="40" selection-end-column="22" />
+>>>>>>> parent of 208629a... Reportes
           <folding>
-            <element signature="e#46#59#0#PHP" expanded="true" />
+            <element signature="e#531#557#0#HTML" expanded="true" />
+            <element signature="e#762#786#0#HTML" expanded="true" />
+            <element signature="e#881#905#0#HTML" expanded="true" />
+            <element signature="e#1080#1104#0#HTML" expanded="true" />
+            <element signature="e#1182#1206#0#HTML" expanded="true" />
+            <element signature="e#1406#1430#0#HTML" expanded="true" />
+            <element signature="e#1527#1551#0#HTML" expanded="true" />
+            <element signature="e#1723#1747#0#HTML" expanded="true" />
+            <element signature="e#1831#1855#0#HTML" expanded="true" />
+            <element signature="e#2030#2054#0#HTML" expanded="true" />
+            <element signature="e#2416#2442#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.8461537">
@@ -817,9 +1546,18 @@
 <<<<<<< HEAD
         <state vertical-scroll-proportion="-15.307693">
 =======
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/MisTrabajos.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+>>>>>>> Stashed changes
         <state vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="1170">
 >>>>>>> origin/master
           <caret line="63" column="64" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
+=======
+        <state vertical-scroll-proportion="0.6982143">
+          <caret line="29" column="81" selection-start-line="29" selection-start-column="81" selection-end-line="29" selection-end-column="81" />
+>>>>>>> parent of 208629a... Reportes
           <folding />
         </state>
       </provider>
@@ -827,16 +1565,26 @@
     <entry file="file://$PROJECT_DIR$/resources/views/Sistema/NuevoTrabajo.blade.php">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< Updated upstream
         <state vertical-scroll-proportion="-4.576923">
           <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
 =======
         <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1575">
           <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
 >>>>>>> origin/master
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1575">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+=======
+        <state vertical-scroll-proportion="-9.153846">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+>>>>>>> parent of 208629a... Reportes
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/resources/views/Admin/Reportes/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-23.807692">
@@ -856,8 +1604,45 @@
         <state vertical-scroll-proportion="2.0" vertical-offset="1653" max-vertical-offset="2535">
           <caret line="112" column="49" selection-start-line="112" selection-start-column="49" selection-end-line="112" selection-end-column="49" />
 >>>>>>> origin/master
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/ListaRevision.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.88035715">
+          <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Sistema/SeguimientoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.26923">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
           <folding>
-            <element signature="e#129#151#0#PHP" expanded="true" />
+            <element signature="e#133#169#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Sistema/TrabajoRevision.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="2.0" vertical-offset="1653" max-vertical-offset="2535">
+          <caret line="112" column="49" selection-start-line="112" selection-start-column="49" selection-end-line="112" selection-end-column="49" />
+=======
+        <state vertical-scroll-proportion="0.41785714">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+>>>>>>> parent of 208629a... Reportes
+>>>>>>> Stashed changes
+          <folding>
+            <element signature="e#762#786#0#HTML" expanded="true" />
+            <element signature="e#881#905#0#HTML" expanded="true" />
+            <element signature="e#1080#1104#0#HTML" expanded="true" />
+            <element signature="e#1185#1209#0#HTML" expanded="true" />
+            <element signature="e#1409#1433#0#HTML" expanded="true" />
+            <element signature="e#1533#1557#0#HTML" expanded="true" />
+            <element signature="e#1729#1753#0#HTML" expanded="true" />
+            <element signature="e#1837#1861#0#HTML" expanded="true" />
+            <element signature="e#2036#2060#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
