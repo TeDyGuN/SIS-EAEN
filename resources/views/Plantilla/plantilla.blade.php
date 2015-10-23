@@ -47,22 +47,22 @@
 <body class="skin-blue">
 <div class="wrapper">
     @include('Plantilla/header')
-    <!--SIDEBAR ACA-->
+            <!--SIDEBAR ACA-->
 
-            <!-- Sidebar user panel -->
+    <!-- Sidebar user panel -->
 
-            <!-- sidebar menu: : style can be found in sidebar.less -->
+    <!-- sidebar menu: : style can be found in sidebar.less -->
     @include('Plantilla\sidebar')
 
 
-    <!--FIN DEL SIDEBAR-->
+            <!--FIN DEL SIDEBAR-->
     <!-- Content Wrapper. Contains pages content -->
 
     <div class="content-wrapper">
         <!-- Content Header (Page header) -->
         @yield('headerpage')
 
-        <!-- Main content -->
+                <!-- Main content -->
         <section class="content">
             @yield('content')
         </section><!-- /.content -->

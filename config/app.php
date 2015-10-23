@@ -144,7 +144,10 @@ return [
         App\Providers\AuthServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-
+        Barryvdh\DomPDF\ServiceProvider::class,
+        yajra\Datatables\DatatablesServiceProvider::class,
+        Barryvdh\Debugbar\ServiceProvider::class,
+        Maatwebsite\Excel\ExcelServiceProvider::class
     ],
 
     /*
@@ -169,9 +172,12 @@ return [
         'Config'    => Illuminate\Support\Facades\Config::class,
         'Cookie'    => Illuminate\Support\Facades\Cookie::class,
         'Crypt'     => Illuminate\Support\Facades\Crypt::class,
+        'Datatables'=> yajra\Datatables\Datatables::class,
         'DB'        => Illuminate\Support\Facades\DB::class,
+        'Debugbar'  => Barryvdh\Debugbar\Facade::class,
         'Eloquent'  => Illuminate\Database\Eloquent\Model::class,
         'Event'     => Illuminate\Support\Facades\Event::class,
+        'Excel'     => 'Maatwebsite\Excel\Facades\Excel',
         'File'      => Illuminate\Support\Facades\File::class,
         'Gate'      => Illuminate\Support\Facades\Gate::class,
         'Hash'      => Illuminate\Support\Facades\Hash::class,
@@ -182,6 +188,7 @@ return [
         'Mail'      => Illuminate\Support\Facades\Mail::class,
         'Password'  => Illuminate\Support\Facades\Password::class,
         'Queue'     => Illuminate\Support\Facades\Queue::class,
+        'PDF'       => 'Barryvdh\DomPDF\Facade',
         'Redirect'  => Illuminate\Support\Facades\Redirect::class,
         'Redis'     => Illuminate\Support\Facades\Redis::class,
         'Request'   => Illuminate\Support\Facades\Request::class,
@@ -193,7 +200,6 @@ return [
         'URL'       => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View'      => Illuminate\Support\Facades\View::class,
-
     ],
 
 ];
