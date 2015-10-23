@@ -533,7 +533,7 @@ class UserTableSeeder extends Seeder
             'birthday'          => '1979-07-19',// 'YEAR - MONTH - DAY'
             'email'             => 'ssanchezs@gmail.com',
 
-            'profesion'         => 'Ingeniero'
+            'profesion'         => 'Ingeniero',
             //'profesion'         => 'Abogado',
             //'profesion'         => 'Ingeniero',
             //'profesion'         => 'Medico',
