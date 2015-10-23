@@ -12,35 +12,6 @@ class UserTableSeeder extends Seeder
     public function run()
     {
 
-        /*
-         * Schema::create('users', function(Blueprint $table)
-        {
-            $table->increments('id');
-
-            $table->enum('type', ['Admin', 'Cursante', 'Tutor']);
-
-            $table->string('first_name');
-            $table->string('father_last_name');
-            $table->string('mother_last_name')->nullable();
-
-            $table->string('ci')->unique();
-            $table->string('exp');
-            $table->date('birthday');
-            $table->string('email')->unique();
-            
-
-            $table->string('profesion')->nullable();
-            $table->string('especialidad');
-            $table->string('grado')->nullable();
-            $table->string('fuerza')->nullable();
-
-            $table->string('password', 60);
-            
-            $table->rememberToken();
-            $table->timestamps();
-        });
-         */
-
 
 //              USUARIO CURSANTE
 
@@ -90,7 +61,7 @@ class UserTableSeeder extends Seeder
             'birthday'          => '1970-07-08',// 'YEAR - MONTH - DAY'
             'email'             => 'jjaraj@gmail.com',
 
-            'profesion'         => 'Licenciatura',
+            'profesion'         => 'Ingeniero',
             //'profesion'         => 'Abogado',
             //'profesion'         => 'Ingeniero',
             //'profesion'         => 'Medico',
@@ -166,9 +137,6 @@ class UserTableSeeder extends Seeder
 
         ));
 
-
-
-
         \DB::table('users')->insert(array(
 
             //       TIPO MILITAR
@@ -229,10 +197,6 @@ class UserTableSeeder extends Seeder
             'password'  => \Hash::make('secret'),
 
         ));
-
-
-
-
 
         \DB::table('users')->insert(array(
 
@@ -344,7 +308,7 @@ class UserTableSeeder extends Seeder
             'birthday'          => '1979-03-14',// 'YEAR - MONTH - DAY'
             'email'             => 'eenriqueze@gmail.com',
 
-            'profesion'         => 'Licenciatura',
+            'profesion'         => 'Abogado',
             //'profesion'         => 'Abogado',
             //'profesion'         => 'Ingeniero',
             //'profesion'         => 'Medico',
@@ -542,17 +506,9 @@ class UserTableSeeder extends Seeder
             //'especialidad'      => 'Magister',
             //'especialidad'      => 'Doctorado',
 
-            
-                        
+          
             'password'  => \Hash::make('secret'),
 
         ));
-
-
-
-      
-        
-
-
     }
 }
