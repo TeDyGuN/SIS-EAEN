@@ -100,7 +100,7 @@ class UserTableSeeder extends Seeder
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
             //'especialidad'      => 'DIM',
-            //'especialidad'      => 'DEM',
+            'especialidad'      => 'DEM',
             
                         
             'password'  => \Hash::make('secret'),
@@ -160,7 +160,7 @@ class UserTableSeeder extends Seeder
             //'grado'             => 'Mayor',
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
-            //'especialidad'      => 'DIM',
+            'especialidad'      => 'DIM',
             //'especialidad'      => 'DEM',
             
                         
@@ -222,7 +222,7 @@ class UserTableSeeder extends Seeder
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
             //'especialidad'      => 'DIM',
-            //'especialidad'      => 'DEM',
+            'especialidad'      => 'DEM',
             
                         
             'password'  => \Hash::make('secret'),
@@ -348,7 +348,7 @@ class UserTableSeeder extends Seeder
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
             //'especialidad'      => 'DEM',
-            //'especialidad'      => 'DEM',
+            'especialidad'      => 'DEM',
             
                         
             'password'  => \Hash::make('secret'),
@@ -411,7 +411,7 @@ class UserTableSeeder extends Seeder
             //'grado'             => 'Mayor',
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
-            //'especialidad'      => 'DEM',
+            'especialidad'      => 'DIM',
             //'especialidad'      => 'DEM',
             
                         
@@ -474,7 +474,7 @@ class UserTableSeeder extends Seeder
             //'grado'             => 'Mayor',
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
-            //'especialidad'      => 'DEM',
+            'especialidad'      => 'DEM',
             //'especialidad'      => 'DEM',
             
                         
