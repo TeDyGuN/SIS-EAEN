@@ -61,7 +61,7 @@ class UserTableSeeder extends Seeder
             'birthday'          => '1970-07-08',// 'YEAR - MONTH - DAY'
             'email'             => 'jjaraj@gmail.com',
 
-            'profesion'         => 'Ingeniero',
+            'profesion'         => 'Ingeniero Industrial',
             //'profesion'         => 'Abogado',
             //'profesion'         => 'Ingeniero',
             //'profesion'         => 'Medico',
@@ -95,7 +95,7 @@ class UserTableSeeder extends Seeder
             'fuerza'            => 'Armada',
             //'fuerza'            => 'Armada',
             //'fuerza'            => 'Fuerza Aerea',
-            'grado'             => 'Teniente',
+            'grado'             => 'Capitan de Navío',
             //'grado'             => 'Mayor',
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
@@ -183,7 +183,7 @@ class UserTableSeeder extends Seeder
             'birthday'          => '1978-06-16',// 'YEAR - MONTH - DAY'
             'email'             => 'ggarciag@gmail.com',
 
-            'profesion'         => 'Ingeniero',
+            'profesion'         => 'Ingeniero Civil',
             //'profesion'         => 'Abogado',
             //'profesion'         => 'Ingeniero',
             //'profesion'         => 'Medico',
@@ -217,7 +217,7 @@ class UserTableSeeder extends Seeder
             'fuerza'            => 'Ejercito',
             //'fuerza'            => 'Armada',
             //'fuerza'            => 'Fuerza Aerea',
-            'grado'             => 'Mayor',
+            'grado'             => 'Teniente Coronel',
             //'grado'             => 'Mayor',
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
@@ -244,7 +244,7 @@ class UserTableSeeder extends Seeder
             'birthday'          => '1974-03-17',// 'YEAR - MONTH - DAY'
             'email'             => 'bburgosb@gmail.com',
 
-            'profesion'         => 'Medico',
+            'profesion'         => 'Ingeniero Ambiental',
             //'profesion'         => 'Abogado',
             //'profesion'         => 'Ingeniero',
             //'profesion'         => 'Medico',
@@ -343,7 +343,7 @@ class UserTableSeeder extends Seeder
             'fuerza'            => 'Armada',
             //'fuerza'            => 'Armada',
             //'fuerza'            => 'Fuerza Aerea',
-            'grado'             => 'Capitan',
+            'grado'             => 'Capitan de Navío',
             //'grado'             => 'Mayor',
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
@@ -407,7 +407,7 @@ class UserTableSeeder extends Seeder
             'fuerza'            => 'Fuerza Aerea',
             //'fuerza'            => 'Armada',
             //'fuerza'            => 'Fuerza Aerea',
-            'grado'             => 'Coronel',
+            'grado'             => 'Teniente Coronel',
             //'grado'             => 'Mayor',
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
@@ -470,7 +470,7 @@ class UserTableSeeder extends Seeder
             'fuerza'            => 'Armada',
             //'fuerza'            => 'Armada',
             //'fuerza'            => 'Fuerza Aerea',
-            'grado'             => 'Capitan',
+            'grado'             => 'Capitan de Navío',
             //'grado'             => 'Mayor',
             //'grado'             => 'Capitan',
             //'grado'             => 'Teniente',
@@ -497,7 +497,7 @@ class UserTableSeeder extends Seeder
             'birthday'          => '1979-07-19',// 'YEAR - MONTH - DAY'
             'email'             => 'ssanchezs@gmail.com',
 
-            'profesion'         => 'Ingeniero',
+            'profesion'         => 'Ingeniero Civil',
             //'profesion'         => 'Abogado',
             //'profesion'         => 'Ingeniero',
             //'profesion'         => 'Medico',
