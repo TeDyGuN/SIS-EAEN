@@ -11,7 +11,7 @@ class UserTableSeeder extends Seeder
      */
     public function run()
     {
-
+//correccion  final
 
 //              USUARIO CURSANTE
 
